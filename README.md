@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayannara, but you can call me Maya 👋
 
-[[My Skills](https://skillicons.dev/icons?i=ruby,rails,css,react,mysql,docker,html,flutter&theme=light)](https://skillicons.dev)
+My Skills (https://skillicons.dev/icons?i=ruby,rails,css,react,mysql,docker,html,flutter&theme=light)
 
 <!--
 **Mayannara/Mayannara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
