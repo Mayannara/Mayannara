@@ -1,6 +1,8 @@
 ### Hi there,
  I'm Mayannara, but you can call me **Maya** 👋
 
+ > “This is the Unix philosophy: Write programs that do one thing and do it well.” — Doug McIlroy
+
 **My Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,ruby,rails,docker,mysql,react,flutter,css,html,bootstrap,typescript,styledcomponents,sass,tailwindcss,graphql&theme=light)](https://skillicons.dev)
