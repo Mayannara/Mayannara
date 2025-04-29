@@ -1,19 +1,13 @@
 # 👋 Hey there
 
- I'm Mayannara, but you can call me **Maya**.
+ I'm Mayannara, but you can call me **Maya**. I'm a FullStack developer with over 7 years of experience in web application development, passionate about creating solutions and solving bugs. </br>
  
- I'm a FullStack developer with over 7 years of experience in web application development, passionate about creating solutions and solving bugs. 
+ I've had the opportunity to work with several languages ​​and work on projects from creation to optimization of legacy systems. I adapt quickly to new technologies and challenges, always seeking to deliver quality results.</br>
  
- I've had the opportunity to work with several languages ​​and work on projects from creation to optimization of legacy systems. 
- 
- I adapt quickly to new technologies and challenges, always seeking to deliver quality results.
- 
- 
-
  > “This is the Unix philosophy: Write programs that do one thing and do it well.” — Doug McIlroy
 
 
-# 💻 My Skills
+# 💻 Tech Stack
 
 <div>
 <code><img height="40" width="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
