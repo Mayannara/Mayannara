@@ -16,45 +16,36 @@ I'm **Mayannara**, but **Maya** works just fine. I'm a passionate FullStack deve
 
 I love the whole journey — from the first sketch to the final optimization — whether I'm building something brand new or breathing life into a legacy system. I'm a quick learner who genuinely enjoys a good challenge, and I always aim to ship work I'm proud of.
 
-> *"This is the Unix philosophy: Write programs that do one thing and do it well."* — Doug McIlroy
+<img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=17&color=D97757&vCenter=true&width=620&height=44&repeat=false&pause=99999&lines=%22Write+programs+that+do+one+thing+and+do+it+well.%22+%E2%80%94+Doug+McIlroy" alt="Write programs that do one thing and do it well. — Doug McIlroy" />
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Languages** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-D97757?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-D97757?style=flat&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-D97757?style=flat&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D97757?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D97757?style=flat&logo=css3&logoColor=white)
 
-**Languages**
+**Frontend &amp; Mobile** &nbsp;
+![React](https://img.shields.io/badge/React-C56A4A?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-C56A4A?style=flat&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-C56A4A?style=flat&logo=tailwindcss&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-C56A4A?style=flat&logo=storybook&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-C56A4A?style=flat&logo=flutter&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-D97757?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-D97757?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-D97757?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-D97757?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-D97757?style=for-the-badge&logo=css3&logoColor=white)
+**Backend &amp; API** &nbsp;
+![Rails](https://img.shields.io/badge/Rails-B0563C?style=flat&logo=rubyonrails&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-B0563C?style=flat&logo=graphql&logoColor=white)
 
-**Frontend &amp; Mobile**
+**Testing** &nbsp;
+![Jest](https://img.shields.io/badge/Jest-99492F?style=flat&logo=jest&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-99492F?style=flat&logo=ruby&logoColor=white)
 
-![React](https://img.shields.io/badge/React-C56A4A?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-C56A4A?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-C56A4A?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-C56A4A?style=for-the-badge&logo=storybook&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-C56A4A?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend &amp; API**
-
-![Rails](https://img.shields.io/badge/Rails-B0563C?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-B0563C?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-99492F?style=for-the-badge&logo=jest&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-99492F?style=for-the-badge&logo=ruby&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-7E3B2C?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+**DevOps** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-7E3B2C?style=flat&logo=docker&logoColor=white)
 
 ---
 
