@@ -14,7 +14,7 @@
 
 I'm **Mayannara**, but **Maya** works just fine. I'm a passionate FullStack developer with **7+ years** of experience turning ideas into elegant, reliable web applications.
 
-I love the whole journey — from the first sketch to the final optimization — whether I'm building something brand new or breathing life into a legacy system. I'm a quick learner who genuinely enjoys a good challenge, and I always aim to ship work I'm proud of.
+I love the whole journey, from the first sketch to the final optimization, whether I'm building something brand new or breathing life into a legacy system. I'm a quick learner who genuinely enjoys a good challenge, and I always aim to ship work I'm proud of.
 
 > *"This is the Unix philosophy: Write programs that do one thing and do it well."* — Doug McIlroy
 
