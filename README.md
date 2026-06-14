@@ -1,105 +1,85 @@
-# 👋 Hey there, I'm Maya!
-
 <div align="center">
-  <p><strong>✨ FullStack Developer | Problem Solver | Code Enthusiast ✨</strong></p>
-  <p>7+ years crafting beautiful solutions and squashing bugs 🐛✨</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=800&color=D97757&center=true&vCenter=true&width=640&height=70&lines=Hey%2C+I'm+Maya+%F0%9F%91%8B;FullStack+Developer+%26+Problem+Solver;7%2B+years+turning+ideas+into+elegant+apps;Always+learning%2C+always+growing" alt="Maya — FullStack Developer" />
+
+<p>
+  <em>FullStack&nbsp;Developer&nbsp;&nbsp;·&nbsp;&nbsp;Problem&nbsp;Solver&nbsp;&nbsp;·&nbsp;&nbsp;Code&nbsp;Enthusiast</em>
+</p>
+
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I'm **Mayannara**, but Maya works just fine! I'm a passionate FullStack developer with over 7 years of experience transforming ideas into elegant web applications. 
+I'm **Mayannara**, but **Maya** works just fine. I'm a passionate FullStack developer with **7+ years** of experience turning ideas into elegant, reliable web applications.
 
-I absolutely love the journey from conception to optimization, whether it's building something brand new or breathing life into legacy systems. I'm a quick learner who thrives on challenges and always aims to deliver quality that makes me proud.
+I love the whole journey — from the first sketch to the final optimization — whether I'm building something brand new or breathing life into a legacy system. I'm a quick learner who genuinely enjoys a good challenge, and I always aim to ship work I'm proud of.
 
 > *"This is the Unix philosophy: Write programs that do one thing and do it well."* — Doug McIlroy
 
 ---
 
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <p><small>JavaScript</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-      <p><small>TypeScript</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-      <p><small>React</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
-      <p><small>GraphQL</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-      <p><small>Ruby</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
-      <p><small>Rails</small></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-      <p><small>Flutter</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-      <p><small>Docker</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-      <p><small>CSS</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      <p><small>HTML</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      <p><small>Tailwind</small></p>
-    </td>
-    <td align="center" width="85">
-      <img height="45" width="45" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
-      <p><small>Storybook</small></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## ✨ What I Love
-
-- 💻 **Building** scalable, beautiful applications
-- 🎨 **Designing** thoughtful user experiences  
-- 🔍 **Debugging** with patience and creativity
-- 🚀 **Optimizing** performance and code quality
-- 📚 **Learning** new technologies and frameworks
-- 🤝 **Collaborating** with amazing teams
-
----
-
-## 📫 Let's Connect
+## Tech Stack
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/mayannara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/mayannara)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your-email@gmail.com)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-D97757?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-D97757?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-D97757?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D97757?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D97757?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend &amp; Mobile**
+
+![React](https://img.shields.io/badge/React-C56A4A?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-C56A4A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-C56A4A?style=for-the-badge&logo=storybook&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-C56A4A?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend &amp; API**
+
+![Rails](https://img.shields.io/badge/Rails-B0563C?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-B0563C?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-99492F?style=for-the-badge&logo=jest&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-99492F?style=for-the-badge&logo=ruby&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-7E3B2C?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## What I Love
+
+- **Building** scalable, beautiful applications
+- **Designing** thoughtful user experiences
+- **Debugging** with patience and creativity
+- **Optimizing** performance and code quality
+- **Learning** new technologies and frameworks
+- **Collaborating** with amazing teams
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-D97757?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayannara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0563C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayannara)
+[![Gmail](https://img.shields.io/badge/Gmail-7E3B2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <p>✨ <strong>Let's create something amazing together!</strong> ✨</p>
-  <p><em>Always learning, always growing 💪</em></p>
+  <sub>Let's create something amazing together · <em>always learning, always growing</em></sub>
 </div>
